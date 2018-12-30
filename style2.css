@@ -1,0 +1,18 @@
+body{
+        line-height: 1.5;
+        max-width: 700px;
+        margin: auto;
+        color: #444;
+        font-size: 17px;
+	background: magenta;
+}
+h1, h2, h3{
+        line-height:1.2;
+	font-color:green;
+	font-family:"Comic Sans Ms","Comic Sans", cursive;
+}
+
+p{
+	font-color:blue;
+	font-family:"papyrus", sans-serif;
+}
